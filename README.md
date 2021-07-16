@@ -47,7 +47,7 @@ focusing on the fields TMIN and TMAX.
 Let's get our hands on some daily summary data for each day in December 2018 for all of New Castle County, Delaware. 
 
 Between the previous exercises and the 
-[web services documentation page for data](https://www.ncdc.noaa.gov/cdo-web/webservices/v2#data), 
+[web services documentation page for data](httgitps://www.ncdc.noaa.gov/cdo-web/webservices/v2#data), 
 you should have all you need to query the service. You may need to make more than one rest request to acquire all of the
  data.
 
